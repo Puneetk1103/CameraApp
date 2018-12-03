@@ -1,0 +1,4 @@
+const DB_HOST = 'sql106.epizy.com';
+const DB_USER = 'epiz_18984754';
+const DB_PASS = 'myfirstweb';
+const DB_NAME = 'epiz_18984754_regue';
